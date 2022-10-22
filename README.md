@@ -10,7 +10,7 @@ The World Bank Group is a global partnership that fights poverty through sustain
 
 # Data Extraction Method
 
-I will make call requests to the World Bank Group's API in R to obtain the over 100,000 data points and save it as a csv file for later visualization. The code for 
+Make call requests to the World Bank Group's API in R to obtain the over 100,000 data points and save it as a csv file for later visualization. The code for 
 that can be found in obtain-data.R
 
 # Data Cleaning and Visualization
